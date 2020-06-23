@@ -1,0 +1,13 @@
+.modal {
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    padding: 7rem 7rem 7rem;
+}
+
+.modal-body {
+    padding: 2rem;
+    border-radius: 5px;
+    background: white;
+    height: 200px;
+}
